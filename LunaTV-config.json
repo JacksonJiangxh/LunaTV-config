@@ -7,7 +7,7 @@
       "detail": "https://www.hongniuzy.com"
     },
     "shandianzy.com": {
-      "_comment": "暂不支持搜索",
+      "_comment": "无法搜索1",
       "name": "🎬闪电资源",
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "detail": "https://shandianzy.com"
@@ -34,6 +34,7 @@
       "detail": "https://jszyapi.com"
     },
     "www.haohuazy.com": {
+      "_comment": "无法搜索1",
       "name": "🎬豪华资源",
       "api": "https://pz.v88.qzz.io/?url=https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://www.haohuazy.com"
@@ -45,12 +46,13 @@
       "detail": "https://dbzy.tv"
     },
     "https://okzyw.net/": {
+      "_comment": "无法搜索1",
       "name": "🎬-OK资源站-",
       "api": "https://api.okzyw.net/api.php/provide/vod/",
       "detail": "https://https://okzyw.net/"
     },
     "yayazy3.com": {
-      "_comment": "暂不支持搜索",
+      "_comment": "无法搜索1",
       "name": "🎬鸭鸭资源",
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "detail": "https://yayazy3.com"
@@ -66,17 +68,19 @@
       "detail": "https://zuida.xyz"
     },
     "suonizy.net": {
-      "_comment": "暂不支持搜索",
+      "_comment": "无法搜索1",
       "name": "🎬索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
       "detail": "https://suonizy.net"
     },
     "niuniuzy5.com/": {
+      "_comment": "无法搜索1",
       "name": "🎬-牛牛-",
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://niuniuzy5.com/"
     },
     "dyttzyapi.com": {
+      "_comment": "无法搜索1",
       "name": "🎬电影天堂",
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "detail": "http://caiji.dyttzyapi.com"
@@ -93,7 +97,7 @@
       "detail": "https://www.moduzy.net"
     },
     "kuaichezy.com": {
-      "_comment": "暂不支持搜索",
+      "_comment": "无法搜索1",
       "name": "🎬快车资源",
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "detail": "https://kuaichezy.com"
@@ -119,6 +123,7 @@
       "detail": "https://wolongzyw.com"
     },
     "ffzyapi.com": {
+      "_comment": "无法搜索1",
       "name": "🎬非凡资源",
       "api": "https://api.ffzyapi.com/api.php/provide/vod",
       "detail": "https://cj.ffzyapi.com"
@@ -141,6 +146,7 @@
       "detail": "https://jinyingzy.com"
     },
     "api.guangsuapi.com": {
+      "_comment": "无法搜索1",
       "name": "🎬光速资源",
       "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "detail": "https://api.guangsuapi.com"
@@ -151,6 +157,7 @@
       "detail": "https://api.wwzy.tv"
     },
     "tyyszyapi.com": {
+      "_comment": "无法搜索1",
       "name": "🎬-天涯-",
       "api": "https://tyyszyapi.com/api.php/provide/vod",
       "detail": "https://tyyszyapi.com"
@@ -161,22 +168,25 @@
       "detail": "https://iqiyizyapi.com"
     },
     "wsyzy.net": {
+      "_comment": "无法搜索1",
       "name": "🎬-无印-",
       "api": "https://api.wsyzy.net/api.php/provide/vod",
       "detail": "https://api.wsyzy.net"
     },
     "yhzy.cc": {
-      "_comment": " 403 Forbidden ",
+      "_comment": "无法搜索1",
       "name": "🎬樱花资源",
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
       "detail": "https://yhzy.cc"
     },
     "wujinzy.me": {
+      "_comment": "无法搜索1",
       "name": "🎬无尽资源",
       "api": "https://api.wujinwszy.net/api.php/provide/vod",
       "detail": "https://wujinzy.com"
     },
     "taopianapi.com": {
+      "_comment": "404 page not found",
       "name": "🎬-淘片-",
       "api": "https://taopianapi.com/api.php/provide/vod",
       "detail": "https://taopianapi.com"
@@ -197,6 +207,7 @@
       "detail": "https://p2100.net"
     },
     "lovedan.net": {
+      "_comment": "无法搜索1",
       "name": "🎬艾旦影视",
       "api": "https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
