@@ -342,7 +342,7 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-26 04:17 CST）
+## API 状态（最近更新：2026-09-27 03:32 CST）
 
 - 总 API 数量：38
 - 成功 API 数量：34
